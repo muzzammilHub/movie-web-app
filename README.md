@@ -1,5 +1,7 @@
 # Movie App
 
+https://github.com/muzzammilHub/movie-web-app/assets/127538327/29fd4a9c-ce4d-4472-8253-1b4c79c9a09c
+
 This project is a movie listing application built with React, Vite, and Tailwind CSS. It allows users to browse movies, mark them as favorites, and view the list of favorite movies.
 
 ## Table of Contents
