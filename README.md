@@ -83,7 +83,7 @@ Follow these steps to set up and run the project locally.
 
 3. **Accessing Environment Variables**: You can access the environment variables in your project files like this:
     ```javascript
-    const apiKey = import.meta.env.VITE_API_KEY;
+    const MOVIE_URL = import.meta.env.VITE_MOVIE_URL;
     ```
 
 ## Usage
